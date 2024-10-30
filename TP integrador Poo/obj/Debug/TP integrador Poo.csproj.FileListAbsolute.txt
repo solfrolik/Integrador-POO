@@ -1,0 +1,10 @@
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\bin\Debug\TP integrador Poo.exe.config
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\bin\Debug\TP integrador Poo.exe
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\bin\Debug\TP integrador Poo.pdb
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP integrador Poo.csproj.AssemblyReference.cache
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP_integrador_Poo.Form1.resources
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP_integrador_Poo.Properties.Resources.resources
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP integrador Poo.csproj.GenerateResource.cache
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP integrador Poo.csproj.CoreCompileInputs.cache
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP integrador Poo.exe
+C:\Users\sol_f\source\repos\TP integrador Poo\TP integrador Poo\obj\Debug\TP integrador Poo.pdb
